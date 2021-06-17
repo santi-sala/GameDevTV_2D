@@ -144,3 +144,19 @@ Received Import Request.
 Start importing Assets/Prefabs/Clown.prefab using Guid(208c99cbaefe8468f9573b36384969b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7312892ac2be3a87a1b6f6fb6f37fb88') in 1.370662 seconds
   Import took 1.374840 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 358.985989 seconds.
+  path: Assets/Scenes/PlayingwithSprites.unity
+  artifactKey: Guid(9c99e538288024d189530c3b829da259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PlayingwithSprites.unity using Guid(9c99e538288024d189530c3b829da259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f83c6f1d9120466b80ff83f8cfc4cc') in 0.003766 seconds
+  Import took 0.010006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.557039 seconds.
+  path: Assets/Scenes/PlayingUI.unity
+  artifactKey: Guid(4c59b588cd54e4de58fbe2cf53fec293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PlayingUI.unity using Guid(4c59b588cd54e4de58fbe2cf53fec293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b82c3d0ec877004f6a2c1a54f7cd71') in 0.003285 seconds
+  Import took 0.006867 seconds .
+
