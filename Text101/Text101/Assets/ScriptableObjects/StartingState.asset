@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'You just woke up. You opened your eyes and around you is dark.
+
+
+    What
+    do you want to do?
+
+    1. Get up from bed. Check for your phone.
+
+    2. Close
+    your eyes and go back to sleep, alarm did not rang yet. '
