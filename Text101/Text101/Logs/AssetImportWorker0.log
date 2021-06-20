@@ -1123,3 +1123,27 @@ Received Import Request.
 Start importing Assets/Fonts/Steamcog Caps SDF.asset using Guid(db0abf17582664949a574790b986d60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23af1427b5247740a1a020761378f96') in 0.175496 seconds
   Import took 0.180681 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.222 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.7 MB.
+System memory in use after: 181.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2452.
+Total: 2.633703 ms (FindLiveObjects: 0.278503 ms CreateObjectMapping: 0.074970 ms MarkObjects: 1.911830 ms  DeleteObjects: 0.367253 ms)
+
