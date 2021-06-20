@@ -259,10 +259,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Placeholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder storyPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story text
+  m_Text: Placeholder story text
 --- !u!222 &20045893
 CanvasRenderer:
   m_ObjectHideFlags: 0
