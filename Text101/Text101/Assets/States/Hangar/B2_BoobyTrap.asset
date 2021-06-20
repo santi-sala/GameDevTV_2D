@@ -12,5 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
   m_Name: B2_BoobyTrap
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You stand up, a little groggily, back up to the far edge of the wall
+    and make an almighty sprint towards the door.
+
+
+    And, of course, its booby
+    trapped. Maybe next time you want to ask what the red wires are wrapped around
+    the door.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: e209efbcfc7c842be93290e5d54c4d8c, type: 2}

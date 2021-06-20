@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
   m_Name: X1_GameOver
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Well, that clearly wasn't the right choice. \n\nYou failed.\n\nNo parade
+    for you.\n\nWant to try again?\n1. Yes, this time I shall taste glory.\n2. No,
+    I'm going to go sulk for a while."
+  nextStates:
+  - {fileID: 11400000, guid: 408c27b5d9c874db7a8958dd77c600f2, type: 2}
+  - {fileID: 11400000, guid: 146626b7dabf744a2ae1be8afca33a21, type: 2}

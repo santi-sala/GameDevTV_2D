@@ -12,5 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
   m_Name: A4_PickingLock
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You give it a good 10 minutes. No dice. Not going to happen.
+
+
+    You
+    do realise that you have no idea how to pick a lock right? You''re an airship
+    pilot, not a common thief.
+
+
+    So what now?
+
+    1. Fine, try to pry it.'
+  nextStates:
+  - {fileID: 11400000, guid: eeb3362b325c143d59b5d6219d28d8a1, type: 2}

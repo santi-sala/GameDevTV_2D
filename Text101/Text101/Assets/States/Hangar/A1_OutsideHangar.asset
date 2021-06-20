@@ -10,15 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
-  m_Name: StartingState
+  m_Name: A1_OutsideHangar
   m_EditorClassIdentifier: 
-  storyText: 'You just woke up. You opened your eyes and around you is dark.
+  storyText: 'Festers. Everywhere. Armed mostly with gas-powered rock flingers.
+
+
+    At
+    least 10 of them guarding the hangar door. Typical.
+
+
+    Could try punching
+    your way through. Or sneaking the long way to the emergency exit.
 
 
     What
-    do you want to do?
+    should you do?
 
-    1. Get up from bed. Check for your phone.
 
-    2. Close
-    your eyes and go back to sleep, alarm did not rang yet. '
+    1. Take them head on - rush the 10 guards.
+
+    2. Sneak
+    your way to the emergency exit.'
+  nextStates:
+  - {fileID: 11400000, guid: 2fa846832556e43038e7f562dbc0fc11, type: 2}
+  - {fileID: 11400000, guid: 8faf7066cdee444f58d8b3ccb336d1b0, type: 2}

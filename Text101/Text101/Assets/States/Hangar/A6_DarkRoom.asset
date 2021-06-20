@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
   m_Name: A6_DarkRoom
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Right, well, that took far longer than anticipated but the lock is
+    off and the door opened. Thank goodness for the Pumping Station being so loud.
+    \n\nYou're in a dark room. You hear people yelling over the top of the combustion
+    boilers. You catch some words. THUNK, THUNK, \"shut off the valves...\", THUNK
+    THUNK, \"...get out in time?\", THUNK THUNK, \"...massive pressure\", THUNK THUNK
+    \"...for glory\"... THUNK THUNK...\n\nWhat next, Adventurer?\n\n1. Get closer
+    to the people speaking.\n2. Ignore them, keep pushing for the airship."
+  nextStates:
+  - {fileID: 11400000, guid: 8e9453aa5c6074d75aef09f9269db40b, type: 2}
+  - {fileID: 11400000, guid: 81d0dcbcdf1e74ceb9cd25699484afaa, type: 2}

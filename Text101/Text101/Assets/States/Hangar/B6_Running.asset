@@ -12,5 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
   m_Name: B6_Running
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You run down a long corridor then up a flight of metal stairs. They
+    make a loud racket as you clamber up them. Thank goodness the machinery in this
+    place is so loud.
+
+
+    In front of you is the emergency exit door. It has an
+    oversized, cast iron lock hanging from a bolted handle. You could try picking
+    the lock, or maybe look for a way to pry it off.
+
+
+    What to do?
+
+
+    1. Pick
+    it.
+
+    2. Pry it.'
+  nextStates:
+  - {fileID: 11400000, guid: 3ee6429e2d31a4fc29f198bdf8864269, type: 2}
+  - {fileID: 11400000, guid: eeb3362b325c143d59b5d6219d28d8a1, type: 2}

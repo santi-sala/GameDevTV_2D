@@ -12,5 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43fc635b9d5ae4fdaad04b38d5593596, type: 3}
   m_Name: A3_EmergencyExit
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Okay, you''re around the corner. No one can see you. You think.
+
+
+    Bit
+    tough to hear yourself think above the thumping machinery. However, in front
+    of you is the emergency exit door. It has an oversized, cast iron lock hanging
+    from a bolted handle. You could try picking the lock, or maybe look for a way
+    to pry it off.
+
+
+    What to do?
+
+
+    1. Pick it.
+
+    2. Pry it.'
+  nextStates:
+  - {fileID: 11400000, guid: 3ee6429e2d31a4fc29f198bdf8864269, type: 2}
+  - {fileID: 11400000, guid: eeb3362b325c143d59b5d6219d28d8a1, type: 2}
